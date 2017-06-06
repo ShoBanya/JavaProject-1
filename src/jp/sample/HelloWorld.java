@@ -42,7 +42,7 @@ public class HelloWorld {
 		data[34] = "";
 		data[35] = "";
 		data[36] = "";
-		data[37] = "おわり";
+		data[37] = "4161205:散歩";
 
 		for (int i = 0;i < data.length; ++i) {
 			System.out.println(data[i]);
